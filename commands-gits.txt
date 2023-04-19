@@ -1,3 +1,22 @@
-git add README.md
-git remote origin
-git push
+#création d'un répertoire
+
+	mkdir
+
+#Entrer dans un répertoie
+	
+	cd
+
+#initialiser le répertoire
+
+	git init
+
+#Voir ce que contient le répertoire
+
+	git status
+
+	
+#Enregistré l'état des fichier actuelle
+
+	git add ("nom du fichier a selectionné")
+	git commit -m "photo/clon du fichier" ("ici ecrire pourquoi ce renvoie")
+	
