@@ -6,6 +6,8 @@
 	
 	cd
 
+#Cloner un 
+
 #initialiser le répertoire
 
 	git init
@@ -20,3 +22,6 @@
 	git add ("nom du fichier a selectionné")
 	git commit -m "photo/clon du fichier" ("ici ecrire pourquoi ce renvoie")
 	
+#Le renvoyer sur github
+
+	git push
